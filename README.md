@@ -1,14 +1,15 @@
 # Howdy, I'm Roshan! 🦦
 
-I'm a Dartmouth student studying CS & economics. I love using CS and math to build economic projects from ML macroeconomic analysis to CRR binomial options pricing.
+I'm a Dartmouth student studying CS & economics. I love using CS and math as building tools for my economic projects from ML macroeconomic analysis to CRR binomial options pricing.
 
-I'm a 3x National Debate Champion/Runner-Up, Coolidge Senator, and prev. erased $1M+ in medical debt for ~1k texan families while in HS. 
+I'm a 5x debate national & state champion/runner-up, Coolidge Senator, and prev. erased $1M+ in medical debt for ~1k Texan families while in HS 
 
-Currently interested in: ml, full-stack, quantitative finance, and economic policy
+Currently interested in: ML, full-stack, quantitative finance, and economic policy
 
 ### Connect
 - Website: https://oceanray1.github.io/Roshan-Realm/
 - LinkedIn: https://www.linkedin.com/in/roshan-shivnani-730a9a2b0/
+- Email: [roshan.30@dartmouth.edu](mailto:roshan.30@dartmouth.edu)
 <!--
 **OceanRay1/OceanRay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
